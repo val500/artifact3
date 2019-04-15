@@ -1,0 +1,67 @@
+# Site/SEO settings
+email: okay@samesies.io
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+name: Varun Valada
+title: The Radicalization of LeRoi Jones
+description: >
+  Artifact 3
+url: val500.github.io/artifact3
+#default_img: /assets/images/seo.jpg
+
+# Contact settings
+
+
+# Disqus settings
+disqus: test-apkdzgmqhj
+
+
+# Author settings
+author:
+  - name: Varun Valada
+
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 5
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts:
+      - 'tag.html'
+    title: 'The Barber Theme'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: raw
+      cased: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Radicalization of LeRoi Jones</title>
+    <description>Artifact 3
+</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 15 Apr 2019 14:35:18 -0400</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2019 14:35:18 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>LeRoi Jones</title>
+        <description>&lt;p&gt;&lt;em&gt;Tales&lt;/em&gt; by Amiri Baraka was a collection of short stories written in 1967.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Apr 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/04/15/amiri-baraka/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/15/amiri-baraka/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Black Magic</title>
+        <description>&lt;p&gt;Church-key XOXO try-hard, schlitz kickstarter meh marfa sustainable yuccie you probably haven’t heard of them. Adaptogen selvage artisan franzen shabby chic listicle YOLO tofu schlitz marfa. Glossier pop-up salvia banh mi, echo park humblebrag hella actually dreamcatcher tumblr meggings iceland.&lt;/p&gt;
+
+&lt;p&gt;Fanny pack chambray pinterest adaptogen salvia. Whatever cornhole single-origin coffee succulents selvage 3 wolf moon prism swag marfa flexitarian. Butcher semiotics gentrify fam. Normcore next level heirloom copper mug sriracha. Poke pop-up cray four loko activated charcoal DIY forage tilde schlitz ethical offal cronut post-ironic. Hell of bicycle rights wolf intelligentsia sriracha 90’s skateboard fashion axe 3 wolf moon meditation.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Apr 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/04/15/black-magic/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/15/black-magic/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tales</title>
+        <description>&lt;p&gt;&lt;em&gt;Tales&lt;/em&gt; by Amiri Baraka was a collection of short stories written in 1967.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Apr 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2017/04/15/tales/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/15/tales/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
