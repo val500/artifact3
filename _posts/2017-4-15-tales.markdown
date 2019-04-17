@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Tales"
-subtitle: "Insert sub here"
-image: /assets/images/tales.jpg
+subtitle: "Published in 1967"
+image: /assets/images/tales1.jpg
 author: Varun Valada
 
 ---
 *Tales* by Amiri Baraka was a collection of short stories written in 1967.
+
+[Next: Archival Work]({% post_url 2016-4-15-archive %})

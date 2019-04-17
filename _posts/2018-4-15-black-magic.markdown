@@ -80,8 +80,37 @@ black self". Ofays is a perjorative slang for white people. Baraka criticizes
 the Black Bourgeoisie for liking white people instead of themselves and their
 identity.
 
-## Black Art
+### Black Art
 
-The final book in the collection 
+The final book in the collection represents a culmination of conflicting ideas
+and themes in Baraka's work and becomes his most lucid and clear manifesto in
+this book about race. As Baraka himself states in the preface, 
+
+> "*Black Art* was the crucial seeing, the decisions, the actual move. The
+> strengthening to destroy, and the developing of willpower to build, even
+> in the face of destruction and despair, even with, or WITHOUT, the
+> confrontation of blankness, whiteness, etc."
+
+An early poem in the collection, titled "Black Art", confronts this realization
+of the true purpose of his poetry.
+
 ![alt text](/assets/images/black_art1.png)
 ![alt text](/assets/images/black_art2.png)
+
+In a large way, this poem discusses Baraka's realization of the true power of
+poetry, confronting his critics who claimed that poetry is best done without
+the influence of political motivation. Baraka explicitly calls this out in the
+first line where he calls poetry without teeth "bullshit". He wants his poetry
+to have power, to fight against the injustices.
+
+Baraka takes on a much more violent and radical tone in this poetry, unfiltered
+and unafraid to take on a force he believes to be unjust. He makes references to 
+stealing weapons from cops, pulling their tongues out and leaving them for dead.
+This language is much more incendiary and aptly describes Baraka's controversial
+tone.
+
+Ultimately, throughout the course of *Black Magic*, themes of race and fighting
+for your race become more prominent as both the themes and style of writing
+become more incendiary and radical.
+
+[Next: Tales]({% post_url 2017-4-15-tales  %})
