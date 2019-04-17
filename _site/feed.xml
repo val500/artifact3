@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Apr 2019 11:33:01 -0400</pubDate>
-    <lastBuildDate>Wed, 17 Apr 2019 11:33:01 -0400</lastBuildDate>
+    <pubDate>Wed, 17 Apr 2019 12:43:33 -0400</pubDate>
+    <lastBuildDate>Wed, 17 Apr 2019 12:43:33 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -162,7 +162,28 @@ become more incendiary and radical.&lt;/p&gt;
     
       <item>
         <title>Tales</title>
-        <description>&lt;p&gt;&lt;em&gt;Tales&lt;/em&gt; by Amiri Baraka was a collection of short stories written in 1967.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;Tales&lt;/em&gt; by Amiri Baraka was a collection of short stories written in 1967. Tales 
+focuses more personally on the story of a Black Man living in White America and
+later, a Black Man living in Black America. These two experiences together set
+the framework for which Tales tells its narrative.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Tales&lt;/em&gt; explores several themes are periods of time in a young Black man’s life,
+perhaps drawing parallels to his own life. One of the stories in &lt;em&gt;Tales&lt;/em&gt;, “Uncle
+Tom’s Cabin: Alternate Ending”, describes a scene where a young Black boy
+answers a question a white teacher asked correctly. While this situation seems
+not to have significance at first, Baraka describes a fear, or a doctrine
+engrained in Black people to not show their true self in the face of White
+people. From the text:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“One little black boy, raised his hand, and looking at the tip of Miss Orbach’s
+nose said 6 1/2…I would have said “No boy, shut up and sit down. You are
+wrong. You don’t know anything. Get out of here and be very quick. Have you no 
+idea what you’re getting involved in? My God … you nigger, get out of here
+and save youself, while there’s time…””&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Despite correctly identifying&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/2016/04/15/archive/&quot;&gt;Next: Archival Work&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -202,6 +223,9 @@ Blacks to join together in revolution. Here is an excerpt:&lt;/p&gt;
 
 &lt;p&gt;Baraka’s advocacy for a unified front of Blacks, all joined to overthrow
 power is extremely radical.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/natblack.pdf&quot;&gt;Download: The National Black Assembly and the Black Liberation Movement&lt;/a&gt;
+&lt;a href=&quot;/assets/images/unicon.pdf&quot;&gt;Download: Creating a Unified Consciousness&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Apr 2016 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2016/04/15/archive/</link>

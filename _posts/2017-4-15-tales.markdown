@@ -6,6 +6,25 @@ image: /assets/images/tales1.jpg
 author: Varun Valada
 
 ---
-*Tales* by Amiri Baraka was a collection of short stories written in 1967.
+*Tales* by Amiri Baraka was a collection of short stories written in 1967. Tales 
+focuses more personally on the story of a Black Man living in White America and
+later, a Black Man living in Black America. These two experiences together set
+the framework for which Tales tells its narrative.
+
+*Tales* explores several themes are periods of time in a young Black man's life,
+perhaps drawing parallels to his own life. One of the stories in *Tales*, "Uncle
+Tom's Cabin: Alternate Ending", describes a scene where a young Black boy
+answers a question a white teacher asked correctly. While this situation seems
+not to have significance at first, Baraka describes a fear, or a doctrine
+engrained in Black people to not show their true self in the face of White
+people. From the text:
+
+> "One little black boy, raised his hand, and looking at the tip of Miss Orbach's
+> nose said 6 1/2...I would have said "No boy, shut up and sit down. You are
+> wrong. You don't know anything. Get out of here and be very quick. Have you no 
+> idea what you're getting involved in? My God ... you nigger, get out of here
+> and save youself, while there's time...""
+
+Despite correctly identifying 
 
 [Next: Archival Work]({% post_url 2016-4-15-archive %})
