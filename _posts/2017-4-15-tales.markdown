@@ -31,6 +31,7 @@ line. Baraka comments on the attitude that Black People would have at the time
 of being scared of challenging the status quo or being considered by White
 people the stereotype of an "Uppity Negro". Baraka takes the form of someone so
 engrained in the social order that they do not want to challenge the social
-order. 
+order.
+
 
 [Next: Archival Work]({% post_url 2016-4-15-archive %})
